@@ -433,6 +433,7 @@
     "workflow-do-stream-step-number",
     "workflow-runtime-tools-context",
     "workflow-serde-support",
+    "workflow-telemetry-step-number-fix",
     "workflow-use-filter-active-tools",
     "xai-responses-pdf-file-url",
     "xsppb-nrpzc-sshwt",
